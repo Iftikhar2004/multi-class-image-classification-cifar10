@@ -58,4 +58,3 @@ We compare their performance using accuracy, precision, recall, F1-score, and co
 | ResNet-18 | 99.33%    | 96.33%   | 0.96          | 0.96       | 0.96   |
 | VGG16     | 91.32%    | 89.03%   | 0.89          | 0.89       | 0.89   |
 
-### ResNet-18 — Classification Report
